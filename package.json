@@ -1,0 +1,16 @@
+{
+  "name": "rurd_mer_g3n3r3rt3r",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/plake492/Rurd_mer_g3n3r3rt3r.git",
+  "author": "Patrick Lake <plake492@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.2"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  }
+}
