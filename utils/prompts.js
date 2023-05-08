@@ -1,10 +1,4 @@
-const licenseList = [
-  'MIT License',
-  'Apache License 2.0',
-  'GNU AGPLv3',
-  'GNU GPLv3',
-  'The Unlicense',
-]
+import { licenseList } from './licenseHelpers'
 
 export const prompts = [
   { type: 'input', message: 'full name', name: 'fullName' },
